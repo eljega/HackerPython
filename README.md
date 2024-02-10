@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE.md) para más detalles.
 
-## :raising_hand: Soporte
+## :🙋‍♂️: Soporte
 
 Si tienes alguna pregunta o necesitas ayuda, no dudes en abrir un issue o contactarme directamente a través de [LinkedIn](https://www.linkedin.com/in/javier-perez-780145263/).
 
