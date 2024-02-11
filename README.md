@@ -2,7 +2,7 @@
 
 ![Portada](statics/img/Banner_principal.png)
 
-Bienvenido a **HackerPython**, el repositorio dedicado a resolver todos los retos de programación de HackerRank utilizando Python. Aquí encontrarás soluciones estructuradas por niveles de dificultad: fácil, intermedio y difícil. Este proyecto tiene como objetivo no solo mejorar tus habilidades de codificación, sino también ofrecer un recurso de aprendizaje para aquellos interesados en profundizar en el mundo de la programación con Python.
+Bienvenido a **HackerPython**, el repositorio dedicado a resolver todos los retos de programación de HackerRank utilizando Python. Aquí encontrarás soluciones estructuradas por niveles de dificultad: fácil, intermedio y difícil. Este proyecto tiene como objetivo no solo mejorar mis habilidades de codificación, sino también ofrecer un recurso de aprendizaje para aquellos interesados en profundizar en el mundo de la programación con Python.
 
 ## :book: Cómo usar este repositorio
 
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE.md) para más detalles.
 
-## :🙋‍♂️: Soporte
+## 🙋🏽‍♂️ Soporte
 
 Si tienes alguna pregunta o necesitas ayuda, no dudes en abrir un issue o contactarme directamente a través de [LinkedIn](https://www.linkedin.com/in/javier-perez-780145263/).
 
